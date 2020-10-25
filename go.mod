@@ -17,6 +17,7 @@ require (
 	github.com/likexian/whois-go v1.7.1
 	github.com/likexian/whois-parser-go v1.14.5
 	github.com/mattn/go-isatty v0.0.12
+	github.com/mdlayher/genetlink v1.0.0
 	github.com/miekg/dns v1.1.29
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
@@ -27,7 +28,7 @@ require (
 	github.com/tomasen/fcgi_client v0.0.0-20180423082037-2bb3d819fd19
 	github.com/valyala/fastjson v1.5.4
 	github.com/vmware/govmomi v0.22.2
-	golang.org/x/net v0.0.0-20191027093000-83d349e8ac1a // indirect; needed for freebsd/arm64
+	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200609130330-bd2cb7843e1b
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/ini.v1 v1.57.0
 	gopkg.in/yaml.v2 v2.3.0
