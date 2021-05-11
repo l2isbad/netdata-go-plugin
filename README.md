@@ -75,6 +75,7 @@ Go.d.plugin is shipped with [`Netdata`](https://github.com/netdata/netdata).
 | [systemdunits](https://github.com/netdata/go.d.plugin/tree/master/modules/systemdunits)           | `Systemd unit state`            |
 | [tengine](https://github.com/netdata/go.d.plugin/tree/master/modules/tengine)                     | `Tengine`                       |
 | [unbound](https://github.com/netdata/go.d.plugin/tree/master/modules/unbound)                     | `Unbound`                       |
+| [unity](https://github.com/netdata/go.d.plugin/tree/master/modules/unity)                         | `Unity`                         |
 | [vcsa](https://github.com/netdata/go.d.plugin/tree/master/modules/vcsa)                           | `vCenter Server Appliance`      |
 | [vernemq](https://github.com/netdata/go.d.plugin/tree/master/modules/vernemq)                     | `VerneMQ`                       |
 | [vsphere](https://github.com/netdata/go.d.plugin/tree/master/modules/vsphere)                     | `VMware vCenter Server`         |
